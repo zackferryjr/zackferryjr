@@ -2,7 +2,7 @@
 - 👀 I’m interested in volleyball, meditating, and hikes!
 - 🌱 I’m currently learning basic data structures, machine learning, and cryptography
 - 💞️ I’m looking to collaborate on any open source projects I can get my hands on
-- 📫 How to reach me zakferryjr@gmail.com
+- 📫 How to reach me zackferryjr@gmail.com
 
 <!---
 zackferryjr/zackferryjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
